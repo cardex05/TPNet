@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Util\bin\Debug\Util.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Util\bin\Debug\Util.pdb
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Util\obj\Debug\Util.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Util\obj\Debug\Util.pdb

@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Bussines.Entities\bin\Debug\Bussines.Entities.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Bussines.Entities\bin\Debug\Bussines.Entities.pdb
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Bussines.Entities\obj\Debug\Bussines.Entities.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Bussines.Entities\obj\Debug\Bussines.Entities.pdb

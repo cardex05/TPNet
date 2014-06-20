@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Util\bin\Release\Util.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Util\bin\Release\Util.pdb
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Util\obj\Release\Util.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Util\obj\Release\Util.pdb

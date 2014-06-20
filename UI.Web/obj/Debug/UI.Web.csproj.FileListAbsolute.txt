@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Web\bin\UI.Web.dll.config
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Web\bin\UI.Web.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Web\bin\UI.Web.pdb
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Web\obj\Debug\UI.Web.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Web\obj\Debug\UI.Web.pdb

@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Negocio\obj\Debug\Negocio.pdb

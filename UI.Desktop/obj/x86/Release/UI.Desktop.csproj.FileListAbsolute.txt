@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Desktop\bin\Release\UI.Desktop.exe
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Desktop\bin\Release\UI.Desktop.pdb
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Desktop\obj\x86\Release\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Desktop\obj\x86\Release\UI.Desktop.Properties.Resources.resources
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Desktop\obj\x86\Release\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Desktop\obj\x86\Release\UI.Desktop.exe
+C:\Users\PC\Documents\facu\Net\Labs\TP2\UI.Desktop\obj\x86\Release\UI.Desktop.pdb

@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Negocio\bin\Release\Negocio.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Negocio\bin\Release\Negocio.pdb
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Negocio\obj\Release\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Negocio\obj\Release\Negocio.dll
+C:\Users\PC\Documents\facu\Net\Labs\TP2\Negocio\obj\Release\Negocio.pdb
